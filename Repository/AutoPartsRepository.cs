@@ -3,7 +3,7 @@ using CarService.Repository.Interface;
 
 namespace CarService.Repository
 {
-    public class AutoPartsRepository : IAutoPartstRepository
+    public class AutoPartsRepository : IAutoPartsRepository
 
     {
         private readonly ApplicationContext context;
@@ -22,5 +22,29 @@ namespace CarService.Repository
             context.AutoParts.Add(autoparts);
             context.SaveChanges();
         }
+
+        public IEnumerable<AutoParts> GetAll()
+        => context.AutoParts.ToList();
+
+       
+        public void Delete (int id)
+        {
+            var autoParts = Get(id);
+            context.AutoParts.Remove(autoParts);
+            context.SaveChanges();
+        }
+       public void Edit( AutoParts autoParts)
+{
+      var entity = Get(autoParts.Id);
+       entity.Name = autoParts.Name;
+    entity.Stock = autoParts.Stock;
+    entity.Price = autoParts.Price;
+    context.SaveChanges();
+}
+
+        public AutoParts Get(int id)
+           => context.AutoParts.FirstOrDefault(autoParts => autoParts.Id == id);
+
+
     }
 }

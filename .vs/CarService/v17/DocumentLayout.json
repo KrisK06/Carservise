@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kalch\\Desktop\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kalch\\Desktop\\Project\\Migrations\\20240331050626_add-CarService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240331050626_add-CarService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\data\\entities\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:data\\entities\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kalch\\Desktop\\Project\\Migrations\\20240331045846_add-service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240331045846_add-service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\service\\autopartsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:service\\autopartsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\repository\\autopartsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:repository\\autopartsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kalch\\Desktop\\Project\\Migrations\\20240331044743_add-CarService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240331044743_add-CarService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\models\\autoparts\\autopartsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:models\\autoparts\\autopartsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\service\\interface\\iautopartsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:service\\interface\\iautopartsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\controllers\\autopartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:controllers\\autopartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\data\\entities\\autoparts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:data\\entities\\autoparts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\models\\autoparts\\editautopartsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:models\\autoparts\\editautopartsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\models\\autoparts\\createautopartsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:models\\autoparts\\createautopartsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\repository\\interface\\iautopartsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:repository\\interface\\iautopartsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\views\\autoparts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:views\\autoparts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\views\\autoparts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:views\\autoparts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\views\\autoparts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:views\\autoparts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|c:\\users\\kalch\\desktop\\project\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51F037CD-06E5-4392-BEA9-706E38C372FC}|CarService.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240331050626_add-CarService.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Migrations\\20240331050626_add-CarService.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240331050626_add-CarService.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Migrations\\20240331050626_add-CarService.cs",
+              "RelativeToolTip": "Migrations\\20240331050626_add-CarService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwCUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T05:06:26.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240331045846_add-service.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Migrations\\20240331045846_add-service.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240331045846_add-service.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Migrations\\20240331045846_add-service.cs",
+              "RelativeToolTip": "Migrations\\20240331045846_add-service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T04:58:46.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoPartsService.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Service\\AutoPartsService.cs",
+              "RelativeDocumentMoniker": "Service\\AutoPartsService.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Service\\AutoPartsService.cs",
+              "RelativeToolTip": "Service\\AutoPartsService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T20:50:54.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-31T04:31:54.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBEAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:23:44.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Data\\Entities\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Data\\Entities\\ApplicationContext.cs",
+              "RelativeToolTip": "Data\\Entities\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:19:18.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoPartsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Repository\\AutoPartsRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\AutoPartsRepository.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Repository\\AutoPartsRepository.cs",
+              "RelativeToolTip": "Repository\\AutoPartsRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T20:58:06.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:23:26.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutoPartsController.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Controllers\\AutoPartsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AutoPartsController.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Controllers\\AutoPartsController.cs",
+              "RelativeToolTip": "Controllers\\AutoPartsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T20:51:01.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutoPartsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Models\\AutoParts\\AutoPartsViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\AutoParts\\AutoPartsViewModel.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Models\\AutoParts\\AutoPartsViewModel.cs",
+              "RelativeToolTip": "Models\\AutoParts\\AutoPartsViewModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA8wBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:13:37.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAutoPartsService.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Service\\Interface\\IAutoPartsService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IAutoPartsService.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Service\\Interface\\IAutoPartsService.cs",
+              "RelativeToolTip": "Service\\Interface\\IAutoPartsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:05:29.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240331044743_add-CarService.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Migrations\\20240331044743_add-CarService.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240331044743_add-CarService.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Migrations\\20240331044743_add-CarService.cs",
+              "RelativeToolTip": "Migrations\\20240331044743_add-CarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T04:47:43.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA4AAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T21:23:41.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutoParts.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Data\\Entities\\AutoParts.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\AutoParts.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Data\\Entities\\AutoParts.cs",
+              "RelativeToolTip": "Data\\Entities\\AutoParts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T20:51:14.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:23:34.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditAutoPartsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Models\\AutoParts\\EditAutoPartsViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\AutoParts\\EditAutoPartsViewModel.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Models\\AutoParts\\EditAutoPartsViewModel.cs",
+              "RelativeToolTip": "Models\\AutoParts\\EditAutoPartsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T20:50:49.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateAutoPartsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Models\\AutoParts\\CreateAutoPartsViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\AutoParts\\CreateAutoPartsViewModel.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Models\\AutoParts\\CreateAutoPartsViewModel.cs",
+              "RelativeToolTip": "Models\\AutoParts\\CreateAutoPartsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:23:33.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAutoPartsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Repository\\Interface\\IAutoPartsRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IAutoPartsRepository.cs",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Repository\\Interface\\IAutoPartsRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IAutoPartsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:01:13.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Views\\AutoParts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\AutoParts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Views\\AutoParts\\Index.cshtml",
+              "RelativeToolTip": "Views\\AutoParts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T21:12:42.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T21:23:43.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T21:23:43.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T21:23:40.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T21:23:39.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Views\\AutoParts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\AutoParts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Views\\AutoParts\\Edit.cshtml",
+              "RelativeToolTip": "Views\\AutoParts\\Edit.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T21:12:31.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Views\\AutoParts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\AutoParts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Views\\AutoParts\\Create.cshtml",
+              "RelativeToolTip": "Views\\AutoParts\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T21:12:24.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T21:23:41.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kalch\\Desktop\\Project\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Kalch\\Desktop\\Project\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T21:23:42.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

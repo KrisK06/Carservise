@@ -5,8 +5,7 @@ namespace CarService.Data.Entities
     public class AutoParts
     {
         [Key]
-
-        public int id { get; set; }
+        public int Id { get; set; }
 
         [Required]
         public string Name { get; set; }
@@ -15,8 +14,15 @@ namespace CarService.Data.Entities
         [Required]
         public int Stock{ get; set; }
 
-        public int CategoryId {  get; set; }
+        
 
+
+        public AutoParts(int id , string name, int price, int stock)
+            :this (name , price, stock)
+        {
+            Id = id;
+            
+        }
         public AutoParts(string name , int price , int stock)
         {
              Name = name;

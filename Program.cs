@@ -1,18 +1,26 @@
 using CarService.Data;
 using CarService.Data.Entities;
+using CarService.Repository;
+using CarService.Repository.Interface;
+using CarService.Service;
+using CarService.Service.Interface;
 using Microsoft.EntityFrameworkCore;
+using MySql.Data.MySqlClient;
 
 var builder = WebApplication.CreateBuilder(args);
 string connectionString = builder.Configuration.GetConnectionString("ApplicationContextConnectionString") ??
-    throw new InvalidDataException("Connection string ApplicationContextConnectionString is not found");
+                throw new InvalidOperationException("Connection string ApplicationContextConnectionString is not found");
+
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
-builder.Services.AddDbContext<ApplicationContext>(context =>
- context.UseMySQL(connectionString));
-
+builder.Services.AddDbContext<ApplicationContext>(options =>
+    options.UseMySQL(builder.Configuration.GetConnectionString("ApplicationContextConnectionString")));
 
 
+builder.Services.AddScoped<IAutoPartsRepository, AutoPartsRepository>();
+builder.Services.AddScoped<IAutoPartsService, AutoPartsService>(); 
+builder.Services.AddRazorPages();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -32,6 +40,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=AutoParts}/{action=Index}/{id?}");
 
 app.Run();
